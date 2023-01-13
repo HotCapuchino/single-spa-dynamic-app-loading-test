@@ -1,1 +1,1 @@
-"# single-spa-dynamic-app" 
+"# single-spa-dynamic-app builded"
